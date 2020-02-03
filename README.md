@@ -4,7 +4,7 @@
 
 ### Growth mindset to me is an active, present and focused mindset. You consistantly try to engage with content and keep an open mind and positive attitude. Everything is possible, nothing can hold you back, seek advice and constructive critisism. 
 
-```How To Stay In A Growth Mindset
+##How To Stay In A Growth Mindset
 
 ###It is easy to fall out of a growth mindset, as it is an active process. Consistently try to keep yourself engaged with content and present in the moment. Actively avoid negative thoughts about youself and your ability to learn/ work effectively.
 
