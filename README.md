@@ -1,4 +1,4 @@
-#Learning Journal
+Learning Journal
 
 ## Growth Mindset
 
