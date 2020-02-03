@@ -7,7 +7,7 @@
 ### How To Stay In A Growth Mindset
 
 ### It is easy to fall out of a growth mindset, as it is an active process. 
-- BulletedConsistently try to keep yourself engaged with content and present in the moment. 
+- Bulleted Consistently try to keep yourself engaged with content and present in the moment. 
  Actively avoid negative thoughts about youself and your ability to learn/ work effectively. 
  Taking care of yourself outside of class will greatly impact your success inside of it. Exercise daily, eat properly and SLEEP ENOUGH.
  Lastly, keep it lighthearted and try to have fun with it. 
