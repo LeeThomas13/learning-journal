@@ -12,5 +12,24 @@
 #### 4.) the ability to choose from a healthy selection of extensions available when you need them
 ### keep in mind, all computers have a text editor installed on them. however, they are very bare bones and lack alot of quality of life features.
 
+# Command Line
+#### a command line is how you "speak to your computer". You type a prompt, and the computer gives feedback.
+##### here are some commands
+
+#### ls= list of directory options
+
+#### cd= change directory
+
+#### pwd= path to working directory
+
+#### mkdir+name of directory= make directory
+
+#### touch+name of file= new file
+
+#### -la= long list of what is in that directory
+
+#### cat= show you what is in that file
+
+
 
 
