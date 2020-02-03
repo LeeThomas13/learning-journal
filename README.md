@@ -2,7 +2,7 @@
 
 ## Growth Mindset
 
-### Growth mindset to me is an active, present and focused mindset. You consistantly try to engage with content and keep an open mind and positive attitude. Everything is possible, nothing can hold you back, seek help and constructive criticism. 
+Growth mindset to me is an active, present and focused mindset. You consistantly try to engage with content and keep an open mind and positive attitude. Everything is possible, nothing can hold you back, seek help and constructive criticism. 
 
 ### How To Stay In A Growth Mindset
 
@@ -11,6 +11,10 @@
 - Actively avoid negative thoughts about youself and your ability to learn/ work effectively. 
 - Taking care of yourself outside of class will greatly impact your success inside of it. Exercise daily, eat properly and SLEEP ENOUGH.
 - Lastly, keep it lighthearted and try to have fun with it. 
+
+https://github.com/LeeThomas13
+
+
 
 You can use the [editor on GitHub](https://github.com/LeeThomas13/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
