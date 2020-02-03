@@ -2,7 +2,7 @@ Learning Journal
 
 ## Growth Mindset
 
-Growth mindset to me is an active, present and focused mindset. You consistantly try to engage with content and keep an open mind and positive attitude. Everything is possible, nothing can hold you back, seek help and constructive criticism. Obstacles are opportunities, "failure" is learning and becoming great takes an immense ammount of work. Stay Consistent.
+Growth mindset to me is an active, present and focused mindset. You consistantly try to engage with content, keep an open mind and positive attitude. Everything is possible, nothing can hold you back, seek help and constructive criticism. Obstacles are opportunities, "failure" is learning and becoming great takes an immense ammount of work. Stay Consistent.
 
 ### How To Stay In A Growth Mindset
 
