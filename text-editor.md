@@ -14,7 +14,7 @@
 
 # Command Line
 #### a command line is how you "speak to your computer". You type a prompt, and the computer gives feedback.
-##### here are some commands
+### __here are some commands__
 
 #### ls= list of directory options
 
