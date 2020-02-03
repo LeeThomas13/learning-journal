@@ -30,6 +30,13 @@
 
 #### cat= show you what is in that file
 
+# Pathing
+#### There are two types of pathing, absolute and relative
+#### Utilize ~, ls, .. , pwd to navigate through the terminal
+
+# Files
+#### everything you navigate through in the terminal are files. There are commands to create and delete files in the terminal.
+
 
 
 
