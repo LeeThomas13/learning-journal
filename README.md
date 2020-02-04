@@ -1,15 +1,12 @@
-Learning Journal
+Learning Journal Home Page
 
-## Growth Mindset
-
-Growth mindset to me is an active, present and focused mindset. You consistantly try to engage with content, keep an open mind and positive attitude. Everything is possible, nothing can hold you back, seek help and constructive criticism. Obstacles are opportunities, "failure" is learning and becoming great takes an immense ammount of work. Stay Consistent.
-
-### How To Stay In A Growth Mindset
-
-It is easy to fall out of a growth mindset, as it is an active process. 
-- Consistently try to keep yourself engaged with content and present in the moment. 
-- Actively avoid negative thoughts about youself and your ability to learn/ work effectively. 
-- Taking care of yourself outside of class will greatly impact your success. Exercise daily, eat properly and SLEEP ENOUGH.
-- Lastly, keep it lighthearted and try to have fun with it. 
+## Who Am I?
+#### First and foremost I am a student software developer at Code Fellows! I love gaming, building computers, photography, scuba diving, music production, snowboarding, puzzels and most of all, learning. I was born in Virginia, raised in Ohio, spent most of my teenage-adult life in California, and now I am in Seattle working on my future.
 
 [My Github Profile](https://github.com/LeeThomas13)
+
+#Table Of Contents
+####[Home Page]
+####[Text Editor Notes]
+####[Learning Markdown]
+####[Growth Mindset]
