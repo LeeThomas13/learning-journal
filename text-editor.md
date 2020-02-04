@@ -38,5 +38,8 @@
 #### everything you navigate through in the terminal are files. There are commands to create and delete files in the terminal.
 
 
+[Home Page](https://leethomas13.github.io/learning-journal/)
+
+
 
 

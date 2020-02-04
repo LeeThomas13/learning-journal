@@ -9,3 +9,5 @@ It is easy to fall out of a growth mindset, as it is an active process.
 - Actively avoid negative thoughts about youself and your ability to learn/ work effectively. 
 - Taking care of yourself outside of class will greatly impact your success. Exercise daily, eat properly and SLEEP ENOUGH.
 - Lastly, keep it lighthearted and try to have fun with it. 
+
+[Home Page](https://leethomas13.github.io/learning-journal/)
