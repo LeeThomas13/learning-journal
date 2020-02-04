@@ -6,7 +6,8 @@ Learning Journal Home Page
 [My Github Profile](https://github.com/LeeThomas13)
 
 #Table Of Contents
-####[Home Page]
-####[Text Editor Notes]
-####[Learning Markdown]
-####[Growth Mindset]
+####[Home Page](https://leethomas13.github.io/learning-journal/)
+####[Text Editor Notes](https://leethomas13.github.io/learning-journal/text-editor)
+####[Learning Markdown](https://leethomas13.github.io/learning-journal/learning-markdown)
+####[Growth Mindset](https://leethomas13.github.io/learning-journal/growth-mindset)
+####[Learnings-Findings]
