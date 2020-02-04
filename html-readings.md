@@ -25,15 +25,15 @@
 #### __Contact__
 
 
-### Grouping together related content into blocks and chunksmakes the page look simpler and easier to understand.
+### Grouping together related content into blocks and chunks makes the page look simpler and easier to understand.
 
-### Visual Heirarchy is utilized in many websites, often expressed by usage of images. Other things hat establish visual heirarchy are __SIZE__ __COLOR__ and __STYLE__. The larger elements grab our attention first, color can draw attention to key messages, and style helps funnel the important information and keep it tight and concise. 
+### Visual Hierarchy is utilized in many websites, often expressed by usage of images. Other things hat establish visual hierarchy are __SIZE__ __COLOR__ and __STYLE__. The larger elements grab our attention first, color can draw attention to key messages, and style helps funnel the important information and keep it tight and concise. 
 
 ### Grouping and Similarity - proximity makes items seem more related. Utilizing white space can help create separate categories of items. Using boarders will help group items.
 
 ## __HTML NOTES__
 
-### Attributes provide additional information about contents of an element. They apperar on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign. Opening tags can carry attributes, which tell us more about the content of that element.
+### Attributes provide additional information about contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign. Opening tags can carry attributes, which tell us more about the content of that element.
 
 # Extra Markup
 
@@ -56,7 +56,7 @@ Utilizing an ID or Class attribute on the div element can creates a CSS style ru
 
 ### Grouping text & elements inline
 
-Using the span element acts like an inlike equivalent of the div element. It is used to either contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
+Using the span element acts like an inline equivalent of the div element. It is used to either contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
 
 
 
