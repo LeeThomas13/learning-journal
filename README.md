@@ -9,17 +9,21 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 
 # Table Of Contents
 
+[Growth Mindset](https://leethomas13.github.io/learning-journal/growth-mindset)
+
+-
+
 [Text Editor Notes](https://leethomas13.github.io/learning-journal/text-editor)
 
 
-[Learning Markdown](https://leethomas13.github.io/learning-journal/learning-markdown)
-
-
-[Growth Mindset](https://leethomas13.github.io/learning-journal/growth-mindset)
-
+[Markdown Notes](https://leethomas13.github.io/learning-journal/learning-markdown)
 
 [HTML Notes](https://leethomas13.github.io/learning-journal/html-readings)
 
 [Git Notes](https://leethomas13.github.io/learning-journal/git-notes)
+
+[CSS Notes](https://leethomas13.github.io/learning-journal/css-notes)
+
+-
 
 [Learnings-Findings](https://leethomas13.github.io/learning-journal/lessons)
