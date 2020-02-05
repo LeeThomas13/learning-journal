@@ -17,5 +17,6 @@ Learning Journal Home Page
 
 [Growth Mindset](https://leethomas13.github.io/learning-journal/growth-mindset)
 
+[HTML Notes](https://leethomas13.github.io/learning-journal/html-readings)
 
-[Learnings-Findings]
+[Learnings-Findings](https://leethomas13.github.io/learning-journal/lessons)

@@ -58,5 +58,7 @@ Utilizing an ID or Class attribute on the div element can creates a CSS style ru
 
 Using the span element acts like an inline equivalent of the div element. It is used to either contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
 
+[Home Page](https://leethomas13.github.io/learning-journal/)
+
 
 
