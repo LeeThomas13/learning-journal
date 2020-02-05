@@ -1,10 +1,8 @@
 # CSS Notes
 
 Stands for cascading style sheets
-   
-    - reads from top to bottom
+-reads from top to bottom
 
--
 
 header h1 {
     color: blue;
@@ -25,6 +23,7 @@ in this example, header and h1 is our "selector". color: blue;  and background-c
     - padding
     - border
     - margin
+    - Its the fancy box looking thing in the dev tools on google
 
  #### What we can use for colors
 
@@ -55,6 +54,27 @@ you can do inline styling by adding elements in the line of code on your HTML. <
 
 you can also write CSS formatted code into your html file. 
 
+## Making an ID or Class
+
+in html you are going to give certain elements ID's or Classes. you do this by typing <nav id="nav-one"> or <nav class="center"> and in css you access these id's by typing 
+#nav-one {
+
+}
+
+or typing . for class
+
+.nav-one {
+
+}
+
+Some Css tags to play with are: display, font-family, font, color, text-align, display: inline-block, float, width, height, hover.
+
+Keep in mind you can use percentages or pixels to size things in CSS. i.e:
+
+footer {
+    height: 150px
+    height: 20%
+}
 
 [Home Page](https://leethomas13.github.io/learning-journal/)
 
