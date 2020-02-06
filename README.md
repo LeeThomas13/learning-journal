@@ -26,6 +26,8 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 
 [Javascript Notes](https://leethomas13.github.io/learning-journal/javascript-notes)
 
+[How Computers Work](https://leethomas13.github.io/learning-journal/how-computers-work)
+
 -
 
 [Learnings-Findings](https://leethomas13.github.io/learning-journal/lessons)
